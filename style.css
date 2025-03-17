@@ -15,3 +15,7 @@ img {
     right: 10px;
     color: red;
   }
+
+  body {
+    background-color: orange;
+  }
